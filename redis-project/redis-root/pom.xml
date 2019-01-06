@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>redis-cache</module>
+        <module>rocketmq-jms</module>
     </modules>
 
 
